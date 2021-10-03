@@ -8,6 +8,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Appzmrdi" />
+        android:theme="@style/Theme.Appzmrdi">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.Appzmrdi.NoActionBar"></activity>
+    </application>
 
 </manifest>
