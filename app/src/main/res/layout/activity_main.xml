@@ -33,4 +33,10 @@
         android:layout_height="731dp"
         tools:srcCompat="@tools:sample/avatars" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="147dp"
+        android:layout_height="125dp"
+        android:text="Button" />
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
